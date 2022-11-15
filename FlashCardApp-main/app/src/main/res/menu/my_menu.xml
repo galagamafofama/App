@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sort1"
+        android:icon="@drawable/ic_sort"
+        android:title="Default sort">
+    </item>
+    <item
+        android:id="@+id/sort"
+        android:icon="@drawable/ic_sort"
+        android:title="Sort by Count Asc">
+    </item>
+    <item
+        android:id="@+id/sort2"
+        android:icon="@drawable/ic_sort"
+        android:title="Sort by Count Desc">
+    </item>
+    <item
+        android:id="@+id/sort4"
+        android:icon="@drawable/ic_sort"
+        android:title="Sort by First Added">
+    </item>
+    <item
+        android:id="@+id/sort3"
+        android:icon="@drawable/ic_sort"
+        android:title="Sort by Last Added">
+    </item>
+
+    <item
+        android:id="@+id/delete_all"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete all">
+    </item>
+    <item
+        android:id="@+id/delete_deck"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete deck">
+    </item>
+</menu>

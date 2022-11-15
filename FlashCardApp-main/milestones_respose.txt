@@ -1,0 +1,8 @@
+Milestones
+Gui:                Galilea
+database:           Alexander
+using flashcards:   zack
+learning reviewing: mastered Javanna
+
+extra
+login               Everyone
